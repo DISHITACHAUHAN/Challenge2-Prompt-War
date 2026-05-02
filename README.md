@@ -88,5 +88,5 @@ Clears common misconceptions about elections.
 
 ### Clone Repository
 ```bash
-git clone https://github.com/your-username/election-guide-assistant.git
-cd election-guide-assistant
+git clone https://github.com/your-username/Challenge2-Prompt-War.git
+cd Challenge2-Prompt-War
